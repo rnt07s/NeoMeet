@@ -1,3 +1,12 @@
+/**
+ * Meeting Model
+ * 
+ * Stores meeting history and session data.
+ * Tracks which users participated in which meetings.
+ * 
+ * @module models/meeting
+ */
+
 import mongoose, { Schema } from "mongoose";
 
 const meetingSchema = new Schema({

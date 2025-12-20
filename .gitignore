@@ -38,3 +38,13 @@ coverage/
 *.tmp
 *.temp
 .cache/
+
+# Debug files
+*.pem
+*.key
+
+# Package lock files (optional - uncomment if needed)
+# package-lock.json
+
+# Misc
+*.bak

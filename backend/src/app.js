@@ -1,3 +1,13 @@
+/**
+ * NeoMeet Backend Server
+ * 
+ * Main entry point for the NeoMeet video conferencing backend.
+ * Handles API routes, WebSocket connections, and database connectivity.
+ * 
+ * @author Rauneet Singh
+ * @version 1.0.0
+ */
+
 import express from "express";
 import { createServer } from "node:http";
 import dotenv from "dotenv";

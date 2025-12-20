@@ -410,8 +410,20 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+<p align="center">
+  <a href="https://github.com/rnt07s">
+    <img src="https://img.shields.io/badge/GitHub-rnt07s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+**👨‍💻 Rauneet Singh** - *Developer & Maintainer*
+
+- GitHub: [@rnt07s](https://github.com/rnt07s)
+
 ---
 
-**Made with ❤️ by NeoMeet Team**
+**Made with ❤️ by Rauneet Singh**
 
 For questions or support, please open an issue on GitHub.

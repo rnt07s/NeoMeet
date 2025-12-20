@@ -1,3 +1,12 @@
+/**
+ * User Model
+ * 
+ * Defines the schema for user authentication and profile data.
+ * Used for registration, login, and session management.
+ * 
+ * @module models/user
+ */
+
 import mongoose, { Schema } from "mongoose";
 
 const userScheme = new Schema(

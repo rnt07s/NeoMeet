@@ -1,3 +1,17 @@
+/**
+ * User Routes
+ * 
+ * API endpoints for user authentication and activity tracking.
+ * 
+ * Routes:
+ * - POST /login - User login
+ * - POST /register - User registration
+ * - POST /add_to_activity - Add meeting to history
+ * - GET /get_all_activity - Get user's meeting history
+ * 
+ * @module routes/users
+ */
+
 import { Router } from "express";
 import {
   addToHistory,

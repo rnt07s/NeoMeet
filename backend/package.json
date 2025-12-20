@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "neomeet-backend",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,9 +8,9 @@
     "start": "node src/app.js",
     "prod": "pm2 src/app.js"
   },
-  "author": "chhatrapati sahu",
-  "license": "ISC",
-  "description": "",
+  "author": "Rauneet Singh",
+  "license": "MIT",
+  "description": "Backend server for NeoMeet video conferencing application",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "crypto": "^1.0.1",
